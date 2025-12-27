@@ -173,9 +173,9 @@ MIT License - Feel free to use for educational purposes
 
 ## 👨‍💻 Dibuat Oleh
 
-Glenn Hakim
-NPM: 2208107010072
-Mata Kuliah: Visi Komputer
+Glenn Hakim  
+NPM: 2208107010072  
+Mata Kuliah: Visi Komputer  
 Semester: 7
 
 ---
